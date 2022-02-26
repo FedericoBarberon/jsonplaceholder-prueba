@@ -1,0 +1,12 @@
+{
+    "data":[{
+        "title":"3.14",
+        "artist":{
+            "name":"Ariel 3.14"
+        },
+        "album":{
+            "cover_small":"https://placekitten.com/36/36"
+        }
+    }],
+    "lyric": "No solamente lo entreno\r\nTiene veneno y juega en el duelo uou"
+}
